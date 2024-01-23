@@ -1131,7 +1131,7 @@ img {
 }
 @media (max-width: 767px) {
   .tp-subtitle-before {
-    font-size: 17px;
+    font-size: 15px;
   }
 }
 .tp-subtitle-before::before {
@@ -1145,7 +1145,7 @@ img {
 }
 
 .tp-section-title {
-  font-size: 43px;
+  font-size:38px;
 }
 @media (max-width: 767px) {
   .tp-section-title br {
