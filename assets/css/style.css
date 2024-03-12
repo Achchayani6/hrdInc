@@ -345,7 +345,9 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+.p-0{
+  text-align: center;
+}
 /*----------------------------------------
     Body Overlay 
 -----------------------------------------*/
