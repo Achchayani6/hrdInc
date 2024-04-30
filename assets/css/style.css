@@ -2370,7 +2370,7 @@ img {
 }
 
 .tp-slider-height {
-  min-height: 950px;
+  min-height: 550px;
   background-size: cover;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
@@ -5020,7 +5020,6 @@ blockquote cite::before {
   z-index: 9;
   position: relative;
 }
-
 @media (max-width: 767px) {
   .tp-contact-info {
     padding-top: 50px;
